@@ -1,0 +1,7 @@
+Warning 1: Layer name 'RAJABASA PEMUKA' adjusted to 'RAJABASA_PEMUKA' for XML validity.
+Warning 1: Layer name 'TPS GM' adjusted to 'TPS_GM' for XML validity.
+Warning 1: Layer name 'GMB 6 Tps' adjusted to 'GMB_6_Tps' for XML validity.
+Warning 1: Layer name 'TPS Rajabasa Nunyai' adjusted to 'TPS_Rajabasa_Nunyai' for XML validity.
+Warning 1: Layer name 'RAJABASA RAYA 21 TPS' adjusted to 'RAJABASA_RAYA_21_TPS' for XML validity.
+Warning 1: Layer name 'Rajabasa Induk 14 Tps' adjusted to 'Rajabasa_Induk_14_Tps' for XML validity.
+Warning 1: Layer name 'Rajabasa Jaya 25 TPS' adjusted to 'Rajabasa_Jaya_25_TPS' for XML validity.

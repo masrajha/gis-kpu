@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "GMB 6 Tps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "TPS 001 GMB", "description": "Jl. ZA. P. Alam Gg. Tunas Harapan                                ( Gedung SD Tunas Harapan )" }, "geometry": { "type": "Point", "coordinates": [ 105.2455728, -5.3763085 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 002 GMB", "description": "Jl. Cengkeh Gg. Cengkeh I                                                ( AULA PENYEJUK JIWA )" }, "geometry": { "type": "Point", "coordinates": [ 105.2453484, -5.3778675 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 003 GMB", "description": "Jl. Anggrek   ( Gedung Bulu Tangkis )" }, "geometry": { "type": "Point", "coordinates": [ 105.2459835, -5.3785508 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 004 GMB", "description": "Jl. Yulius Usman Gg. Hi. Amin" }, "geometry": { "type": "Point", "coordinates": [ 105.2490173, -5.3793395 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 005 GMB", "description": "Jl. Jambu II  ( Gedung SASANA PARA WITHA )" }, "geometry": { "type": "Point", "coordinates": [ 105.2480919, -5.3777613 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 006 GMB", "description": "Jl. Purnawirawan" }, "geometry": { "type": "Point", "coordinates": [ 105.2464452, -5.3764352 ] } }
+]
+}

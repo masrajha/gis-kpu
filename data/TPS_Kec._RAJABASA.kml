@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>RAJABASA_PEMUKA</name>
+  <Placemark>
+	<name>TPS 01</name>
+      <Point><coordinates>105.226645,-5.366556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 02</name>
+	<description>Perum rajabasa Permai ( Lapangan Taman RBP )</description>
+      <Point><coordinates>105.226879,-5.366158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 03</name>
+	<description>Komplek Pemuka RT.04 LK 1</description>
+      <Point><coordinates>105.225319,-5.366882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 04</name>
+	<description>Komplek Pemuka ( Belakang Gardu ) RT. 09 LK.1</description>
+      <Point><coordinates>105.224842,-5.36787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 05</name>
+	<description>Jl. Kavling Raya RT.05 LK 1</description>
+      <Point><coordinates>105.226314,-5.369475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 06</name>
+	<description>Jl. Dipangga Satya ( Depan masjid Al-Muhajirin ) Rt 08 Lk 1</description>
+      <Point><coordinates>105.222655,-5.370761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 07</name>
+	<description>Jl. Dipangga V RT. 01 LK II</description>
+      <Point><coordinates>105.221956,-5.371077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 08</name>
+	<description>Jl. Kavling Raya Gg. Tulang Bawang Rt. 07 LK 1</description>
+      <Point><coordinates>105.224941,-5.369725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 09</name>
+	<description>Jl. Raden Gunawan Gg. Melati IV Rt 09 LK 1</description>
+      <Point><coordinates>105.220278,-5.368856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 10</name>
+	<description>Jl Raden Gunawan Gg. Melati III Rt 02 LK I</description>
+      <Point><coordinates>105.220345,-5.367642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 11</name>
+	<description>Perumahan Griya Kencana Rt 04 Lk I</description>
+      <Point><coordinates>105.219278,-5.371282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 12</name>
+	<description>Jl Kepayang ( Depan Toko Bangunan Prima ) RT 05 Lk I</description>
+      <Point><coordinates>105.219778,-5.373321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 13</name>
+	<description>Jl. Kepayang Gg. Cendana RT 06 LK II</description>
+      <Point><coordinates>105.219191,-5.374872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 14</name>
+	<description>Perumahan Ragom Gawi II Blok E Rt 07 LK II</description>
+      <Point><coordinates>105.2187,-5.371013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 15</name>
+	<description>Perumahan Griya Angkasa Islami Rt. 03 LK 1</description>
+      <Point><coordinates>105.218456,-5.366749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 16</name>
+	<description>Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka</description>
+      <Point><coordinates>105.224319,-5.373419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 17</name>
+	<description>Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka</description>
+      <Point><coordinates>105.224575,-5.373436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 18</name>
+	<description>Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka</description>
+      <Point><coordinates>105.22399,-5.373437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 19</name>
+	<description>Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka</description>
+      <Point><coordinates>105.223763,-5.373448</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>TPS_GM</name>
+  <Placemark>
+	<name>TPS 05</name>
+	<description>RT 04/Lk. 2, Ketua RT Ansyari</description>
+      <Point><coordinates>105.238071,-5.376627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 06</name>
+	<description>RT 04/Lk. 2, Rumah Jusriadi</description>
+      <Point><coordinates>105.238331,-5.375928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 07</name>
+	<description>RT 04 /Lk. 2, Rumah Teten Sahril</description>
+      <Point><coordinates>105.238149,-5.375642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 08</name>
+	<description>SDN 1 Gedung Meneng, Ketua RT Hanafi</description>
+      <Point><coordinates>105.239348,-5.374183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 09</name>
+	<description>Rumah alm. Bapak Suhaimi</description>
+      <Point><coordinates>105.240478,-5.374199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 10</name>
+	<description>Museum Lampung, Ketua RT Juandi</description>
+      <Point><coordinates>105.240608,-5.372264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 11</name>
+	<description>Pos Satpam Perumahan Bumi Puspa Kencana</description>
+      <Point><coordinates>105.245452,-5.374909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 12</name>
+	<description>Bengkel Mobil Pak Dahrun</description>
+      <Point><coordinates>105.246678,-5.371019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 13</name>
+	<description>STM 2 Mei</description>
+      <Point><coordinates>105.246256,-5.372855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 15</name>
+	<description>Pos Satpam Bawah Perumahan Bumi Puspa Kencana</description>
+      <Point><coordinates>105.247442,-5.372032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 14</name>
+	<description>Balairoom Mess E Unila</description>
+      <Point><coordinates>105.243336,-5.369197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 01</name>
+	<description>Lapangan Voli</description>
+      <Point><coordinates>105.243202,-5.375294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 04</name>
+	<description>Ketua RT Gunadi</description>
+      <Point><coordinates>105.239453,-5.377981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 03</name>
+      <Point><coordinates>105.240254,-5.377361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 02</name>
+	<description>Jl. Cengkeh 1</description>
+      <Point><coordinates>105.24214,-5.374867</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>GMB_6_Tps</name>
+  <Placemark>
+	<name>TPS 001 GMB</name>
+	<description>Jl. ZA. P. Alam Gg. Tunas Harapan                                ( Gedung SD Tunas Harapan )</description>
+      <Point><coordinates>105.2455728,-5.3763085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 002 GMB</name>
+	<description>Jl. Cengkeh Gg. Cengkeh I                                                ( AULA PENYEJUK JIWA )</description>
+      <Point><coordinates>105.2453484,-5.3778675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 003 GMB</name>
+	<description>Jl. Anggrek   ( Gedung Bulu Tangkis )</description>
+      <Point><coordinates>105.2459835,-5.3785508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 004 GMB</name>
+	<description>Jl. Yulius Usman Gg. Hi. Amin</description>
+      <Point><coordinates>105.2490173,-5.3793395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 005 GMB</name>
+	<description>Jl. Jambu II  ( Gedung SASANA PARA WITHA )</description>
+      <Point><coordinates>105.2480919,-5.3777613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 006 GMB</name>
+	<description>Jl. Purnawirawan</description>
+      <Point><coordinates>105.2464452,-5.3764352</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>TPS_Rajabasa_Nunyai</name>
+  <Placemark>
+	<name>TPS 01 Nunyai</name>
+	<description>Jl. Pramuka Gg. Hi. Maherat Hamid RT 003 LK I</description>
+      <Point><coordinates>105.229678,-5.3684926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 02 Nunyai</name>
+	<description>Jl. Pramuka Gg. Karya 9 RT 004 LK I</description>
+      <Point><coordinates>105.2302916,-5.3699496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 03 Nunyai</name>
+	<description>Jl. Nunyai Gg. Hi. Ismail RT 005 LK I</description>
+      <Point><coordinates>105.2319364,-5.3693347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 04 Nunyai</name>
+	<description>Jl. Nunyai Indah Blok C RT 005 LK I                          ( Halaman Mushola )</description>
+      <Point><coordinates>105.2314789,-5.372014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 05 Nunyai</name>
+	<description>Jl. Pramuka Bumi Puspa Kencana Dalam RT 007 LK I</description>
+      <Point><coordinates>105.2290917,-5.3730195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 06 Nunyai</name>
+	<description>Jl. Pramuka Gg. Libra RBI  RT 009 LK I                      ( Aula POSYANDU )</description>
+      <Point><coordinates>105.2276299,-5.3740062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 07 Nunyai</name>
+	<description>Jl. Aquarius III RBI Gg. Leo No. 02 RT 10 LK I</description>
+      <Point><coordinates>105.2269098,-5.3741597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 08 Nunyai</name>
+	<description>Jl. Pramuka Perum Bukit Alam Permai I RT 13 LK I</description>
+      <Point><coordinates>105.2237063,-5.3782872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 09 Nunyai</name>
+	<description>Jl. Nunyai Gg. Raya RT 004 LK II</description>
+      <Point><coordinates>105.2333068,-5.369154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 10 Nunyai</name>
+	<description>Jl. Nunyai Gg. Bungsu II RT 04 LK II</description>
+      <Point><coordinates>105.2325986,-5.3715196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 11 Nunyai</name>
+	<description>Jl. A. Kadir III RT 003 LK II</description>
+      <Point><coordinates>105.2348314,-5.3725063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 12 Nunyai</name>
+	<description>Jl. A. KAdir Gg. Kacang  RT 03 LK II</description>
+      <Point><coordinates>105.2340657,-5.3732201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 13 Nunyai</name>
+	<description>Jl. A. Kadir  Gg. Anggur RT 01 LK  II</description>
+      <Point><coordinates>105.2350903,-5.3717492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 14 Nunyai</name>
+	<description>Jl. A. Kadir II  Gg. Cendrawasih RT 002  LK II</description>
+      <Point><coordinates>105.2354161,-5.3755565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 15 Nunyai</name>
+	<description>Jl. A. Kadir I Gg. Dara  RT 002  LK II</description>
+      <Point><coordinates>105.2355824,-5.3759851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 16 Nunyai</name>
+	<description>Jl. Nunyai Gg. Mangga RT  006  LK  II</description>
+      <Point><coordinates>105.2336546,-5.3751452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 17 Nunyai</name>
+	<description>Jl. Nunyai Gg. Durian II Ujung</description>
+      <Point><coordinates>105.2327346,-5.3740582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 18 Nunyai</name>
+	<description>Jl. Nunyai Ujung</description>
+      <Point><coordinates>105.2341523,-5.378699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 19 Nunyai</name>
+	<description>Jl Purnawirawan 7 Gg. Abd, Muis</description>
+      <Point><coordinates>105.2326422,-5.380089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 20 Nunyai</name>
+	<description>Jl Purnawirawan VI B</description>
+      <Point><coordinates>105.2325742,-5.3809099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 21 Nunyai</name>
+	<description>Jl. Pramuka Gg. Hi. Maherat                                           ( Samping Alfamart )</description>
+      <Point><coordinates>105.2282762,-5.3691796</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>RAJABASA_RAYA_21_TPS</name>
+  <Placemark>
+	<name>TPS 01 RAYA</name>
+	<description>Jln Hi. Komarudin Gg. Waylima 1</description>
+      <Point><coordinates>105.2374769,-5.3571513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 02 RAYA</name>
+	<description>Jln. Hi. Komarudin Gg. Waylima II RT. 02</description>
+      <Point><coordinates>105.2372838,-5.3574681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 03 RAYA</name>
+	<description>Jln. Hi. Komarrudin depan Mushola Perum Nunyai RT. 09</description>
+      <Point><coordinates>105.2355745,-5.359241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 04 RAYA</name>
+	<description>Jln. Hi. Komarudin Gg. Citra RT. 10</description>
+      <Point><coordinates>105.2364308,-5.3556192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 05 RAYA</name>
+	<description>Perum Glora Persada Lapangan Bulutangkis</description>
+      <Point><coordinates>105.2372988,-5.3540828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 06 RAYA</name>
+	<description>Perum Glora Persada Depan Masjid</description>
+      <Point><coordinates>105.2373332,-5.3538266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 07 RAYA</name>
+	<description>Perum Glora Persada deket Pos Kesehatan Kelurahan</description>
+      <Point><coordinates>105.2373895,-5.3535169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 08 RAYA</name>
+	<description>Jln. Hi. Ismail depan Masjid RT. 05</description>
+      <Point><coordinates>105.2396454,-5.3555406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 09 RAYA</name>
+	<description>Gg. By Pass Raya VI Lap. Volly RT. 05</description>
+      <Point><coordinates>105.240513,-5.3559339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 10 RAYA</name>
+	<description>Jln. Hi. Ismail Gg. Tuyuk Janguk Deket SD RT. 20</description>
+      <Point><coordinates>105.2407823,-5.357164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 13 RAYA</name>
+	<description>Jln. Nitiuda dpn rumah Bapak Ngadiono RT. 06</description>
+      <Point><coordinates>105.2450652,-5.3575173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 14 RAYA</name>
+	<description>Jln. Centra Fitnes dekat Rumah Pak Sahidin (Zen) RT. 06</description>
+      <Point><coordinates>105.2450238,-5.3575409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 15 RAYA</name>
+	<description>Perum Polri Blok D no. 9 dpn rumah pak Drs.Zulharminto RT. 07</description>
+      <Point><coordinates>105.2436597,-5.3539847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 16 RAYA</name>
+	<description>Jln. Bhayangkara Gg. Garuda dpn rumah Hi. Maryuni RT. 07&amp;08</description>
+      <Point><coordinates>105.2418694,-5.3537493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 18 RAYA</name>
+	<description>Jln. Hi. Komarudin Gg. masjid RT. 11</description>
+      <Point><coordinates>105.2452261,-5.3543457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 17 RAYA</name>
+	<description>Jln. Bhayangkara Gg. Gg. Parkit RT. 08</description>
+      <Point><coordinates>105.241229,-5.3542514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 20 RAYA</name>
+	<description>Jln. Hi. Komarudin Kp. Madiun RT. 16&amp;17</description>
+      <Point><coordinates>105.2399618,-5.3513814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 21 RAYA</name>
+	<description>Jln. Hi. Komarudin Gg. Nusantara 7 No. 18</description>
+      <Point><coordinates>105.2418639,-5.3482304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 19 RAYA</name>
+	<description>Jln. Hi. Komarudin Kp. Madiun deket Bpk Ali RT. 19</description>
+      <Point><coordinates>105.2385054,-5.3507381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 12 RAYA</name>
+	<description>Jln. Soekarno Hatta Gg. By Pass Raya IV TK deket Algofilin No. 04</description>
+      <Point><coordinates>105.242813,-5.3583294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 11 RAYA</name>
+	<description>Jln. Marga Anak Tuha RT. 03</description>
+      <Point><coordinates>105.2407125,-5.3589358</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Rajabasa_Induk_14_Tps</name>
+  <Placemark>
+	<name>TPS 001 Induk</name>
+	<description>Jl. Indra Bangsawan                                                       ( Halaman Rumah Ketua RT 01 )</description>
+      <Point><coordinates>105.2311999,-5.3656962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 002 Induk</name>
+	<description>Jl. Indra Bangsawan ( Seberang Masjid )</description>
+      <Point><coordinates>105.2332795,-5.3656518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 003 Induk</name>
+	<description>Jl. Indra Bangsawan ( Belakang Pasar Tempel )</description>
+      <Point><coordinates>105.2349943,-5.3673301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 004 Induk</name>
+	<description>Jl. Indra Bangsawan ( Belakang Pasar Tempel )</description>
+      <Point><coordinates>105.2352303,-5.3666826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 006 Induk</name>
+	<description>Jl. Kapten Abdul Haq                                                       ( Halaman Rumah Ketua RT 02 )</description>
+      <Point><coordinates>105.2349245,-5.3648199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 005 Induk</name>
+	<description>Jl. Kapten Abdul Haq   ( Samping Brown Cafe )</description>
+      <Point><coordinates>105.2351605,-5.3649481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 007 Induk</name>
+	<description>Jl. Kapten Abdul Haq  Gg. Toyib</description>
+      <Point><coordinates>105.2342633,-5.3644127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 008 Induk</name>
+	<description>Jl. Kapten Abdul Haq Gg. Ibrahim</description>
+      <Point><coordinates>105.2344773,-5.3619999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 009 Induk</name>
+	<description>Jl. Kapten Abdul Haq Gg. Banten</description>
+      <Point><coordinates>105.2354964,-5.3622243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 010 Induk</name>
+	<description>Jl. Kapten Abdul Haq  ( Depan Pool DAMRI )</description>
+      <Point><coordinates>105.2351948,-5.3611689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 011 Induk</name>
+	<description>Jl. Soekarno Hatta Gg. Amanah ( Tuan Sinar )</description>
+      <Point><coordinates>105.2335077,-5.3599886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 012 Induk</name>
+	<description>Jl. Jauhari Wahid Perum Griya Kencana</description>
+      <Point><coordinates>105.2391698,-5.3684011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 013 Induk</name>
+	<description>Jl. Soekarno Hatta  Gg. Hi. Ahmad</description>
+      <Point><coordinates>105.2280761,-5.3618455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 014 Induk</name>
+	<description>Jl. ZA. Pagar Alam Gg. Singgah Pai</description>
+      <Point><coordinates>105.228052,-5.3625933</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Rajabasa_Jaya_25_TPS</name>
+  <Placemark>
+	<name>TPS 01</name>
+	<description>Jln Nawawi Gelar Dalom RT. 01</description>
+      <Point><coordinates>105.2469391,-5.3457653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 02</name>
+	<description>Jl. Saburai Rt. 02</description>
+      <Point><coordinates>105.2486435,-5.342764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 03</name>
+	<description>Jln. Saburai Gg. Sulaiman Rt. 03</description>
+      <Point><coordinates>105.2524784,-5.3399924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 04</name>
+	<description>Jln. Nawawi gelar dalom Rt. 04</description>
+      <Point><coordinates>105.2463201,-5.3457364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 05</name>
+	<description>Jln. Nawawi RT. 05</description>
+      <Point><coordinates>105.2480689,-5.3438243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 06</name>
+	<description>Jln. Nawawi gelar Dalom Rt. 06</description>
+      <Point><coordinates>105.2468913,-5.3417714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 07</name>
+	<description>Jln. Hi. Komarudin RT. 07</description>
+      <Point><coordinates>105.2426725,-5.3464546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 08</name>
+	<description>Jln. Nawawi gelar dalom kav. Nunyai Jaya Rt. 08</description>
+      <Point><coordinates>105.247463,-5.3420119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 09</name>
+	<description>Jln. Hi. Sardana RT. 01</description>
+      <Point><coordinates>105.2513198,-5.353037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 10</name>
+	<description>Jln.Hi. Sardana Rt. 01</description>
+      <Point><coordinates>105.2527282,-5.3550557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 11</name>
+	<description>Jln. Padat Karya Rt. 02</description>
+      <Point><coordinates>105.2474465,-5.3531026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 12</name>
+	<description>Jln. Padat Karya RT. 12</description>
+      <Point><coordinates>105.2500127,-5.3493464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 13</name>
+	<description>Jln. Gimini RT. 03</description>
+      <Point><coordinates>105.2485911,-5.3484623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 14</name>
+	<description>Jln. Gemini RT. 03</description>
+      <Point><coordinates>105.2485633,-5.348427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 15</name>
+	<description>Jln. Gemini RT. 03</description>
+      <Point><coordinates>105.248103,-5.3474302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 16</name>
+	<description>Jln. Hi. Sardana RT. 04</description>
+      <Point><coordinates>105.2527386,-5.3549954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 17</name>
+	<description>Jln. Padat Karya RT. 05</description>
+      <Point><coordinates>105.2482169,-5.3526795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 18</name>
+	<description>Jln. Padat Karya Rt. 06</description>
+      <Point><coordinates>105.2493097,-5.3510959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 19</name>
+	<description>Jln. Sri Kresna RT. 07</description>
+      <Point><coordinates>105.2522421,-5.3474524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 20</name>
+	<description>Jln. Sri Kresna RT. 07</description>
+      <Point><coordinates>105.2520302,-5.3463548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 21</name>
+	<description>Jln. Sri Kresna RT. 07</description>
+      <Point><coordinates>105.2514937,-5.3455973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 22</name>
+	<description>Jln. Karya Bakti Rt. 08</description>
+      <Point><coordinates>105.2591783,-5.3501835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 24</name>
+	<description>Jln. Karya Bakti Rt. 09</description>
+      <Point><coordinates>105.2600041,-5.3491274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 25</name>
+	<description>Jln. Karya Bakti Rt. 10</description>
+      <Point><coordinates>105.2613353,-5.3473992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TPS 23</name>
+	<description>Gg. Perintis Rt. 11</description>
+      <Point><coordinates>105.2437935,-5.3448559</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "TPS GM",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "TPS 05", "description": "RT 04\/Lk. 2, Ketua RT Ansyari" }, "geometry": { "type": "Point", "coordinates": [ 105.238071, -5.376627 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 06", "description": "RT 04\/Lk. 2, Rumah Jusriadi" }, "geometry": { "type": "Point", "coordinates": [ 105.238331, -5.375928 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 07", "description": "RT 04 \/Lk. 2, Rumah Teten Sahril" }, "geometry": { "type": "Point", "coordinates": [ 105.238149, -5.375642 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 08", "description": "SDN 1 Gedung Meneng, Ketua RT Hanafi" }, "geometry": { "type": "Point", "coordinates": [ 105.239348, -5.374183 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 09", "description": "Rumah alm. Bapak Suhaimi" }, "geometry": { "type": "Point", "coordinates": [ 105.240478, -5.374199 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 10", "description": "Museum Lampung, Ketua RT Juandi" }, "geometry": { "type": "Point", "coordinates": [ 105.240608, -5.372264 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 11", "description": "Pos Satpam Perumahan Bumi Puspa Kencana" }, "geometry": { "type": "Point", "coordinates": [ 105.245452, -5.374909 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 12", "description": "Bengkel Mobil Pak Dahrun" }, "geometry": { "type": "Point", "coordinates": [ 105.246678, -5.371019 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 13", "description": "STM 2 Mei" }, "geometry": { "type": "Point", "coordinates": [ 105.246256, -5.372855 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 15", "description": "Pos Satpam Bawah Perumahan Bumi Puspa Kencana" }, "geometry": { "type": "Point", "coordinates": [ 105.247442, -5.372032 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 14", "description": "Balairoom Mess E Unila" }, "geometry": { "type": "Point", "coordinates": [ 105.243336, -5.369197 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 01", "description": "Lapangan Voli" }, "geometry": { "type": "Point", "coordinates": [ 105.243202, -5.375294 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 04", "description": "Ketua RT Gunadi" }, "geometry": { "type": "Point", "coordinates": [ 105.239453, -5.377981 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 03", "description": null }, "geometry": { "type": "Point", "coordinates": [ 105.240254, -5.377361 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 02", "description": "Jl. Cengkeh 1" }, "geometry": { "type": "Point", "coordinates": [ 105.24214, -5.374867 ] } }
+]
+}

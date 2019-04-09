@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "RAJABASA PEMUKA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "TPS 01", "description": null }, "geometry": { "type": "Point", "coordinates": [ 105.226645, -5.366556 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 02", "description": "Perum rajabasa Permai ( Lapangan Taman RBP )" }, "geometry": { "type": "Point", "coordinates": [ 105.226879, -5.366158 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 03", "description": "Komplek Pemuka RT.04 LK 1" }, "geometry": { "type": "Point", "coordinates": [ 105.225319, -5.366882 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 04", "description": "Komplek Pemuka ( Belakang Gardu ) RT. 09 LK.1" }, "geometry": { "type": "Point", "coordinates": [ 105.224842, -5.36787 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 05", "description": "Jl. Kavling Raya RT.05 LK 1" }, "geometry": { "type": "Point", "coordinates": [ 105.226314, -5.369475 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 06", "description": "Jl. Dipangga Satya ( Depan masjid Al-Muhajirin ) Rt 08 Lk 1" }, "geometry": { "type": "Point", "coordinates": [ 105.222655, -5.370761 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 07", "description": "Jl. Dipangga V RT. 01 LK II" }, "geometry": { "type": "Point", "coordinates": [ 105.221956, -5.371077 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 08", "description": "Jl. Kavling Raya Gg. Tulang Bawang Rt. 07 LK 1" }, "geometry": { "type": "Point", "coordinates": [ 105.224941, -5.369725 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 09", "description": "Jl. Raden Gunawan Gg. Melati IV Rt 09 LK 1" }, "geometry": { "type": "Point", "coordinates": [ 105.220278, -5.368856 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 10", "description": "Jl Raden Gunawan Gg. Melati III Rt 02 LK I" }, "geometry": { "type": "Point", "coordinates": [ 105.220345, -5.367642 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 11", "description": "Perumahan Griya Kencana Rt 04 Lk I" }, "geometry": { "type": "Point", "coordinates": [ 105.219278, -5.371282 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 12", "description": "Jl Kepayang ( Depan Toko Bangunan Prima ) RT 05 Lk I" }, "geometry": { "type": "Point", "coordinates": [ 105.219778, -5.373321 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 13", "description": "Jl. Kepayang Gg. Cendana RT 06 LK II" }, "geometry": { "type": "Point", "coordinates": [ 105.219191, -5.374872 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 14", "description": "Perumahan Ragom Gawi II Blok E Rt 07 LK II" }, "geometry": { "type": "Point", "coordinates": [ 105.2187, -5.371013 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 15", "description": "Perumahan Griya Angkasa Islami Rt. 03 LK 1" }, "geometry": { "type": "Point", "coordinates": [ 105.218456, -5.366749 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 16", "description": "Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka" }, "geometry": { "type": "Point", "coordinates": [ 105.224319, -5.373419 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 17", "description": "Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka" }, "geometry": { "type": "Point", "coordinates": [ 105.224575, -5.373436 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 18", "description": "Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka" }, "geometry": { "type": "Point", "coordinates": [ 105.22399, -5.373437 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 19", "description": "Lembaga Pemasyrakatan Kelas 1A Jl. Pramuka" }, "geometry": { "type": "Point", "coordinates": [ 105.223763, -5.373448 ] } }
+]
+}

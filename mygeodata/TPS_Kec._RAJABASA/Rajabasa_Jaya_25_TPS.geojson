@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "Rajabasa Jaya 25 TPS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "TPS 01", "description": "Jln Nawawi Gelar Dalom RT. 01" }, "geometry": { "type": "Point", "coordinates": [ 105.2469391, -5.3457653 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 02", "description": "Jl. Saburai Rt. 02" }, "geometry": { "type": "Point", "coordinates": [ 105.2486435, -5.342764 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 03", "description": "Jln. Saburai Gg. Sulaiman Rt. 03" }, "geometry": { "type": "Point", "coordinates": [ 105.2524784, -5.3399924 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 04", "description": "Jln. Nawawi gelar dalom Rt. 04" }, "geometry": { "type": "Point", "coordinates": [ 105.2463201, -5.3457364 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 05", "description": "Jln. Nawawi RT. 05" }, "geometry": { "type": "Point", "coordinates": [ 105.2480689, -5.3438243 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 06", "description": "Jln. Nawawi gelar Dalom Rt. 06" }, "geometry": { "type": "Point", "coordinates": [ 105.2468913, -5.3417714 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 07", "description": "Jln. Hi. Komarudin RT. 07" }, "geometry": { "type": "Point", "coordinates": [ 105.2426725, -5.3464546 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 08", "description": "Jln. Nawawi gelar dalom kav. Nunyai Jaya Rt. 08" }, "geometry": { "type": "Point", "coordinates": [ 105.247463, -5.3420119 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 09", "description": "Jln. Hi. Sardana RT. 01" }, "geometry": { "type": "Point", "coordinates": [ 105.2513198, -5.353037 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 10", "description": "Jln.Hi. Sardana Rt. 01" }, "geometry": { "type": "Point", "coordinates": [ 105.2527282, -5.3550557 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 11", "description": "Jln. Padat Karya Rt. 02" }, "geometry": { "type": "Point", "coordinates": [ 105.2474465, -5.3531026 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 12", "description": "Jln. Padat Karya RT. 12" }, "geometry": { "type": "Point", "coordinates": [ 105.2500127, -5.3493464 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 13", "description": "Jln. Gimini RT. 03" }, "geometry": { "type": "Point", "coordinates": [ 105.2485911, -5.3484623 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 14", "description": "Jln. Gemini RT. 03" }, "geometry": { "type": "Point", "coordinates": [ 105.2485633, -5.348427 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 15", "description": "Jln. Gemini RT. 03" }, "geometry": { "type": "Point", "coordinates": [ 105.248103, -5.3474302 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 16", "description": "Jln. Hi. Sardana RT. 04" }, "geometry": { "type": "Point", "coordinates": [ 105.2527386, -5.3549954 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 17", "description": "Jln. Padat Karya RT. 05" }, "geometry": { "type": "Point", "coordinates": [ 105.2482169, -5.3526795 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 18", "description": "Jln. Padat Karya Rt. 06" }, "geometry": { "type": "Point", "coordinates": [ 105.2493097, -5.3510959 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 19", "description": "Jln. Sri Kresna RT. 07" }, "geometry": { "type": "Point", "coordinates": [ 105.2522421, -5.3474524 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 20", "description": "Jln. Sri Kresna RT. 07" }, "geometry": { "type": "Point", "coordinates": [ 105.2520302, -5.3463548 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 21", "description": "Jln. Sri Kresna RT. 07" }, "geometry": { "type": "Point", "coordinates": [ 105.2514937, -5.3455973 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 22", "description": "Jln. Karya Bakti Rt. 08" }, "geometry": { "type": "Point", "coordinates": [ 105.2591783, -5.3501835 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 24", "description": "Jln. Karya Bakti Rt. 09" }, "geometry": { "type": "Point", "coordinates": [ 105.2600041, -5.3491274 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 25", "description": "Jln. Karya Bakti Rt. 10" }, "geometry": { "type": "Point", "coordinates": [ 105.2613353, -5.3473992 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 23", "description": "Gg. Perintis Rt. 11" }, "geometry": { "type": "Point", "coordinates": [ 105.2437935, -5.3448559 ] } }
+]
+}

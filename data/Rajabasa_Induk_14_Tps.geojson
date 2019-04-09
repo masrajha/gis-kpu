@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Rajabasa Induk 14 Tps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "TPS 001 Induk", "description": "Jl. Indra Bangsawan                                                       ( Halaman Rumah Ketua RT 01 )" }, "geometry": { "type": "Point", "coordinates": [ 105.2311999, -5.3656962 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 002 Induk", "description": "Jl. Indra Bangsawan ( Seberang Masjid )" }, "geometry": { "type": "Point", "coordinates": [ 105.2332795, -5.3656518 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 003 Induk", "description": "Jl. Indra Bangsawan ( Belakang Pasar Tempel )" }, "geometry": { "type": "Point", "coordinates": [ 105.2349943, -5.3673301 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 004 Induk", "description": "Jl. Indra Bangsawan ( Belakang Pasar Tempel )" }, "geometry": { "type": "Point", "coordinates": [ 105.2352303, -5.3666826 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 006 Induk", "description": "Jl. Kapten Abdul Haq                                                       ( Halaman Rumah Ketua RT 02 )" }, "geometry": { "type": "Point", "coordinates": [ 105.2349245, -5.3648199 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 005 Induk", "description": "Jl. Kapten Abdul Haq   ( Samping Brown Cafe )" }, "geometry": { "type": "Point", "coordinates": [ 105.2351605, -5.3649481 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 007 Induk", "description": "Jl. Kapten Abdul Haq  Gg. Toyib" }, "geometry": { "type": "Point", "coordinates": [ 105.2342633, -5.3644127 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 008 Induk", "description": "Jl. Kapten Abdul Haq Gg. Ibrahim" }, "geometry": { "type": "Point", "coordinates": [ 105.2344773, -5.3619999 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 009 Induk", "description": "Jl. Kapten Abdul Haq Gg. Banten" }, "geometry": { "type": "Point", "coordinates": [ 105.2354964, -5.3622243 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 010 Induk", "description": "Jl. Kapten Abdul Haq  ( Depan Pool DAMRI )" }, "geometry": { "type": "Point", "coordinates": [ 105.2351948, -5.3611689 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 011 Induk", "description": "Jl. Soekarno Hatta Gg. Amanah ( Tuan Sinar )" }, "geometry": { "type": "Point", "coordinates": [ 105.2335077, -5.3599886 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 012 Induk", "description": "Jl. Jauhari Wahid Perum Griya Kencana" }, "geometry": { "type": "Point", "coordinates": [ 105.2391698, -5.3684011 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 013 Induk", "description": "Jl. Soekarno Hatta  Gg. Hi. Ahmad" }, "geometry": { "type": "Point", "coordinates": [ 105.2280761, -5.3618455 ] } },
+{ "type": "Feature", "properties": { "Name": "TPS 014 Induk", "description": "Jl. ZA. Pagar Alam Gg. Singgah Pai" }, "geometry": { "type": "Point", "coordinates": [ 105.228052, -5.3625933 ] } }
+]
+}
