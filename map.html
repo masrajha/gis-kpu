@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <title>KML Click Capture Sample</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/main.js"></script>
     <style>
         html,
         body {
@@ -13,7 +14,7 @@
             padding: 0;
             margin: 0;
         }
-        
+
         #map {
             height: 360px;
             width: 600px;
@@ -21,7 +22,7 @@
             float: left;
             border: thin solid #333;
         }
-        
+
         #capture {
             height: 360px;
             width: 480px;
@@ -50,32 +51,13 @@
                     lat: -5.36787
                 }
             });
-            $.getJSON(srcFile, function(json) {
-                // console.log(json); // this will show the info it in firebug console
-                data = json;
-                map.data.addGeoJson(json);
-                map.data.forEach(function(f) {
-                    console.log(f);
-                });
-
-                map.data.setStyle(function(feature) {
-                    return /** @type {google.maps.Data.StyleOptions} */ ({
-                        fillColor: feature.getProperty('color'),
-                        strokeWeight: 1
-                    });
-                });
-
-                // console.log(map.data);
-                // Set mouseover event for each feature.
-                map.data.addListener('click', function(event) {
-                    document.getElementById('capture').textContent =
-                        event.feature.getProperty('description');
-                });
-            });
+            let controller = new Controller(srcFile);
+            controller.loadData(map,'capture');
         }
     </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYeLADGHqxVp5_vGITwjTy2A0qZcqIAgU&callback=initMap">
-    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYeLADGHqxVp5_vGITwjTy2A0qZcqIAgU&callback=initMap"></script>
+    
 </body>
 
 </html>

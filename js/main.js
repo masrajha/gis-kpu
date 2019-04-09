@@ -1,0 +1,35 @@
+class Controller {
+    constructor(srcFile) {
+        this.srcFile = srcFile;
+    }
+    loadData(map, div) {
+        $.getJSON(this.srcFile, function (json) {
+            // console.log(json); // this will show the info it in firebug console
+            data = json;
+            map.data.addGeoJson(json);
+            map.data.forEach(function (f) {
+                console.log(f);
+            });
+
+            map.data.setStyle(function (feature) {
+                return /** @type {google.maps.Data.StyleOptions} */ ({
+                    fillColor: feature.getProperty('color'),
+                    strokeWeight: 1
+                });
+            });
+
+            map.data.addListener('click', function (event) {
+                let content = event.feature.getProperty('description').replace(/\s+/g, " ");
+                console.log(content)
+                document.getElementById(div).textContent = content;
+
+                var infowindow = new google.maps.InfoWindow();
+
+                infowindow.setContent(content);
+                infowindow.setPosition(event.feature.getGeometry().get());
+                infowindow.setOptions({ pixelOffset: new google.maps.Size(0, -30) });
+                infowindow.open(map);
+            });
+        });
+    }
+}
