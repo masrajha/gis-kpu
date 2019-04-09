@@ -60,6 +60,7 @@
             map.data.forEach(function(feature) {
                 console.log("aaaa");
             });
+            
             map.data.addListener('click', function (event) {
                 document.getElementById('capture').textContent =
                     event.feature.getProperty('description');
