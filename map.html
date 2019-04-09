@@ -5,6 +5,7 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <title>KML Click Capture Sample</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <style>
         html,
         body {
@@ -12,7 +13,7 @@
             padding: 0;
             margin: 0;
         }
-
+        
         #map {
             height: 360px;
             width: 600px;
@@ -20,7 +21,7 @@
             float: left;
             border: thin solid #333;
         }
-
+        
         #capture {
             height: 360px;
             width: 480px;
@@ -37,39 +38,44 @@
     <div id="map"></div>
     <div id="capture"></div>
     <script>
-        var map;
-        var map;
+        var map = null;
+        var srcFile = "data/Rajabasa_Induk_14_Tps.geojson";
+        var data;
+
         function initMap() {
-            map = new google.maps.Map(document.getElementById('map'), {
+            var map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 14,
-                center: { lng: 105.224842, lat: -5.36787 }
+                center: {
+                    lng: 105.224842,
+                    lat: -5.36787
+                }
             });
-
-            // NOTE: This uses cross-domain XHR, and may not work on older browsers.
-            map.data.loadGeoJson(
-                'data/Rajabasa_Induk_14_Tps.geojson');
-
-            map.data.setStyle(function (feature) {
-                return /** @type {google.maps.Data.StyleOptions} */({
-                    fillColor: feature.getProperty('color'),
-                    strokeWeight: 1
+            $.getJSON(srcFile, function(json) {
+                // console.log(json); // this will show the info it in firebug console
+                data = json;
+                map.data.addGeoJson(json);
+                map.data.forEach(function(f) {
+                    console.log(f);
                 });
-            });
 
-            // Set mouseover event for each feature.
-            map.data.forEach(function(feature) {
-                console.log("aaaa");
-            });
-            
-            map.data.addListener('click', function (event) {
-                document.getElementById('capture').textContent =
-                    event.feature.getProperty('description');
+                map.data.setStyle(function(feature) {
+                    return /** @type {google.maps.Data.StyleOptions} */ ({
+                        fillColor: feature.getProperty('color'),
+                        strokeWeight: 1
+                    });
+                });
+
+                // console.log(map.data);
+                // Set mouseover event for each feature.
+                map.data.addListener('click', function(event) {
+                    document.getElementById('capture').textContent =
+                        event.feature.getProperty('description');
+                });
             });
         }
     </script>
-    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYeLADGHqxVp5_vGITwjTy2A0qZcqIAgU&callback=initMap">
-        </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYeLADGHqxVp5_vGITwjTy2A0qZcqIAgU&callback=initMap">
+    </script>
 </body>
 
 </html>
