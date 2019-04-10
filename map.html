@@ -14,7 +14,7 @@
             padding: 0;
             margin: 0;
         }
-
+        
         #map {
             height: 360px;
             width: 600px;
@@ -22,7 +22,7 @@
             float: left;
             border: thin solid #333;
         }
-
+        
         #capture {
             height: 360px;
             width: 480px;
@@ -40,7 +40,7 @@
     <div id="capture"></div>
     <script>
         var map = null;
-        var srcFile = "data/Rajabasa_Induk_14_Tps.geojson";
+        var srcFile = ["data/Rajabasa_Induk_14_Tps.geojson", "data/Rajabasa_Jaya_25_TPS.geojson"];
         var data;
 
         function initMap() {
@@ -51,13 +51,20 @@
                     lat: -5.36787
                 }
             });
-            let controller = new Controller(srcFile);
-            controller.loadData(map,'capture');
+            let gis = new GIS(srcFile[0], map);
+            gis.loadData('capture');
+
+            gis.setJSONFile(srcFile[1]);
+            gis.loadData('capture');
+
         }
+        var url = window.location.protocol + "//" + window.location.hostname + '/data/';
+        console.log(url);
+        var filename = url.substring(url.lastIndexOf('/') + 1);
+        console.log(filename);
     </script>
-    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYeLADGHqxVp5_vGITwjTy2A0qZcqIAgU&callback=initMap"></script>
-    
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYeLADGHqxVp5_vGITwjTy2A0qZcqIAgU&callback=initMap"></script>
+
 </body>
 
 </html>
